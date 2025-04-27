@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav-item{
+    margin: 5px;
+}
+body {
+    background-color: #f8f9fa;
+  }
+
+  .hero-section {
+    padding: 60px 0;
+  }
+
+  .hero-image img {
+    max-width: 100%;
+  }
+
+  .highlight {
+    color: #4CAF50;
+  }
+
+  .btn-custom {
+    background-color: #4CAF50;
+    color: #fff;
+  }
+
+  .btn-custom:hover {
+    background-color: #45a049;
+  }
+
+  .carousel-indicators [data-bs-target] {
+    background-color: #4CAF50;
+  }
+  .client-logo {
+    width: 50px;
+    margin: 20px;
+  }
+  .icon-box {
+    background-color: #e9f5ed;
+    border-radius: 0.5rem;
+    padding: 10px;
+    display: inline-block;
+  }
+
+  .hero-img {
+    max-width: 100%;
+  }
+  .stat-icon {
+    width: 30px;
+    margin-right: 10px;
+  }
+  .stats-section {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+  }
+  .text-green {
+    color: #28a745;
+  }
+  .btn-green {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+  }
+  .btn-green:hover {
+    background-color: #218838;
+  }
+  .footer2{
+    background-color: rgb(0, 0, 0, 0.4);
+    color: white;
+  }
+ .view{
+  padding-left: 350px;
+  margin-top: -100px;
+ }
